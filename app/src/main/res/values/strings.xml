@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">followMe</string>
+    <string name="title_activity_trip_lead">TripLeadActivity</string>
+    <string name="title_activity_trip_following">TripFollowingActivity</string>
+    <string name="desc_awaiting" />
+    <string name="desc_pause" />
+    <string name="desc_stop" />
+    <string name="desc_share" />
+</resources>
